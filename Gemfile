@@ -10,6 +10,7 @@ gem 'bootstrap-will_paginate', '0.0.6'
 gem 'sqlite3'
 gem "breadcrumbs_on_rails"
 gem 'russian'
+gem 'thin'
 
 # Users
 gem 'devise'
